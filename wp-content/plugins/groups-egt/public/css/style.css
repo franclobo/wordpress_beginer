@@ -1,0 +1,30 @@
+.ugp-groups-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.ugp-groups-table th, .ugp-groups-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.ugp-groups-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.ugp-join-button {
+  padding: 5px 10px;
+  background-color: #0073aa;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.ugp-join-button:hover {
+  background-color: #005a8c;
+}
