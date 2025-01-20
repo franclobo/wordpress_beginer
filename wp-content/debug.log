@@ -22,3 +22,16 @@ Stack trace:
 #5 /opt/lampp/htdocs/wordpress/wp-admin/admin-ajax.php(22): require_once('/opt/lampp/htdo...')
 #6 {main}
   thrown in /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php on line 324
+[18-Jan-2025 23:26:38 UTC] PHP Parse error:  syntax error, unexpected token "function", expecting "(" in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 24
+[18-Jan-2025 23:46:38 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 98
+[18-Jan-2025 23:50:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 127
+[18-Jan-2025 23:52:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 130
+[18-Jan-2025 23:54:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 132
+[18-Jan-2025 23:56:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 136
+[18-Jan-2025 23:58:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 142
+[19-Jan-2025 00:00:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 146
+[19-Jan-2025 00:02:38 UTC] PHP Parse error:  Unclosed '{' on line 109 in /opt/lampp/htdocs/wordpress/wp-content/plugins/groups-egt/groups-egt.php on line 149
+[19-Jan-2025 14:29:38 UTC] Automatic updates starting...
+[19-Jan-2025 14:29:39 UTC] Automatic updates complete.
+[19-Jan-2025 21:55:57 UTC] Automatic updates starting...
+[19-Jan-2025 21:55:58 UTC] Automatic updates complete.
